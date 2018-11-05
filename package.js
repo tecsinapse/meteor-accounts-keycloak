@@ -1,8 +1,7 @@
 Package.describe({
   name: "tecsinapse:accounts-keycloak",
   summary: "Login service for Keycloak accounts - fork from hotello",
-  version: "2.0.0",
-  git: "https://github.com/hotello/meteor-accounts-keycloak.git"
+  version: "2.0.0"
 });
 
 Package.onUse(function(api) {
