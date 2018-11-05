@@ -1,6 +1,6 @@
-# hotello:accounts-keycloak
+# tecsinapse:accounts-keycloak
 
-A login service for Keycloak.
+A login service for Keycloak. Forked from hotello:accounts-keycloak
 
 ## Configuration
 
